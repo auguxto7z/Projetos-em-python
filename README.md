@@ -8,6 +8,6 @@
 2. Segundo passo....
 
 ## Links e referências 
-[Curso em video](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&si=8weCOYX56oO5HkS0)
+[Curso em video do Gustavo Guanabara](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&si=8weCOYX56oO5HkS0)
 
 
