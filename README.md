@@ -1,4 +1,4 @@
-#Aprendendo  Linguagens 
+# Aprendendo  Linguagens 
 <p>Aqui tem scripts em <strong>python</strong>.</p>
 
 - Fiz tudo pelo celular
